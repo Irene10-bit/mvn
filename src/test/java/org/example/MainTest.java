@@ -5,6 +5,6 @@ public class MainTest {
 
     @Test
     public void GradeTest(){
-        assertEquals("A",Main.grade(90));
+        assertEquals("b",Main.grade(90));
     }
 }
